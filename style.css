@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    font-size: x-large;
+}
+label{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    padding-right: 100px;
+}
+button{
+    text-align: center;
+    background-color: yellowgreen;
+    padding: 5px;
+    border: transparent;
+    border-color: azure;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+button:hover{
+    color: blue;
+    background-color: #3f5efb;
+    cursor: pointer;
+}
+form{
+    text-align: center;
+    display: inline-block;
+    border-color:white;
+    border-radius: 10px;
+    border-width: 3px;
+    border-style: solid;
+    width: 250px;
+    height: 300px;
+    background: palevioletred(255,255,255,0.06);
+}
+div{
+    text-align: center;
+    box-sizing: border-box
+}
+a{
+    display: block;
+    cursor: pointer;
+    color:white;
+    cursor: pointer;
+    margin-top: 5px;
+}
+a:hover{
+    color:blue;
+    
+}
+body{
+    text-align: center;
+    padding-top:150px;
+    background: linear-gradient(to right,#3f5efb,#fc466b);
+}
